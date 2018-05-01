@@ -45,6 +45,7 @@ import quickfix.examples.banzai.ui.BanzaiFrame;
 
 /**
  * Entry point for the Banzai application.
+ * 
  */
 public class Banzai {
     private static final CountDownLatch shutdownLatch = new CountDownLatch(1);
